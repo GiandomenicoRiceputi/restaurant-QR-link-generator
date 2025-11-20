@@ -1,0 +1,23 @@
+.input {
+    padding: var(--space-xs);
+    border: 1px solid var(--clr-slate-300);
+}
+
+.button {
+    background: var(--clr-slate-900);
+    color: var(--clr-white);
+    font-weight: var(--fw-bold);
+    padding: var(--space-xs);
+    border-radius: 1.25rem;
+}
+
+.button:hover {
+    background: var(--clr-slate-700);
+    color: var(--clr-slate-900);
+    cursor: pointer;
+}
+
+.button:focus {
+    outline: 2px solid var(--clr-slate-300);
+    outline-offset: 2px;
+}
