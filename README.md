@@ -35,7 +35,7 @@ I wanted to challenge myself to make the component interactive. I turned it into
 ### Links
 
 - **Repository URL:** [https://github.com/GiandomenicoRiceputi/restaurant-QR-link-generator](https://github.com/GiandomenicoRiceputi/restaurant-QR-link-generator)
-- **Live Site URL:** [Add your Vercel/Netlify link here]
+- **Live Site URL:** [https://fancy-sopapillas-4e2c4e.netlify.app/]
 
 ## My Process
 
